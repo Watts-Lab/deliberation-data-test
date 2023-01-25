@@ -1286,3 +1286,5 @@
 {"kind":"Attribute","obj":{"id":"01GQMVSV4A1V4CS2T7P9XG6CN7","createdAt":"2023-01-25T16:22:30.794373184Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"acceptingParticipants","val":"false","nodeID":"01GQMPJTC4JXN9HVWBXK7T0FB6"}}
 {"kind":"Attribute","obj":{"id":"01GQMVSV4A1V4CS2T7PBGTYS82","createdAt":"2023-01-25T16:22:30.794373184Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"closed","val":null,"nodeID":"01GQMPJTC4JXN9HVWBXK7T0FB6"}}
 {"kind":"Attribute","obj":{"id":"01GQMVSV4GFKP4X5WBF92FVQHY","createdAt":"2023-01-25T16:22:30.800823208Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"batchesAcceptingParticipants","val":"false","nodeID":"01GQK8HT4FDMQPJJ26JV23WTH8"}}
+{"kind":"Attribute","obj":{"id":"01GQMWQ8HQG47JE24F0DKT5NRR","createdAt":"2023-01-25T16:38:34.807257329Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"closed","val":"true","nodeID":"01GQMPJTC4JXN9HVWBXK7T0FB6"}}
+{"kind":"Attribute","obj":{"id":"01GQMWQ8HZET8KTEWPT2SS2CVY","createdAt":"2023-01-25T16:38:34.815598051Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"false","nodeID":"01GQMRHPH0Y4WBWM47TMN45HVH"}}
