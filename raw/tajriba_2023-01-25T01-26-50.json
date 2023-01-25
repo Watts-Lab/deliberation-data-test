@@ -682,3 +682,4 @@
 {"kind":"Attribute","obj":{"id":"01GQM7YCXGXB2Y2YRPDF8TTVQ7","createdAt":"2023-01-25T10:35:28.560977589Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"true","nodeID":"01GQK8SNB107T7ZSY4KD72DBG2"}}
 {"kind":"Attribute","obj":{"id":"01GQM7YD7EF15XADE5EN8XZJ9P","createdAt":"2023-01-25T10:35:28.878603501Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"true","nodeID":"01GQK8T1MA17N4QS2GN8N4712W"}}
 {"kind":"Attribute","obj":{"id":"01GQM7YD9E9MP1Z5YZY47DCGGS","createdAt":"2023-01-25T10:35:28.942287602Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"true","nodeID":"01GQK8T90HAJHQQP9H8WZR5B80"}}
+{"kind":"Attribute","obj":{"id":"01GQMND015QFG590WG9APPF5RX","createdAt":"2023-01-25T14:30:38.373676993Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"false","nodeID":"01GQK8T1MA17N4QS2GN8N4712W"}}
