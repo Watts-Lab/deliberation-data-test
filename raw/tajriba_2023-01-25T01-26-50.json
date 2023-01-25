@@ -637,3 +637,7 @@
 {"kind":"Attribute","obj":{"id":"01GQKBDAC948TFBX7JJ8SXGD2A","createdAt":"2023-01-25T02:16:48.777355365Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"true","nodeID":"01GQK8T1MA17N4QS2GN8N4712W"}}
 {"kind":"Attribute","obj":{"id":"01GQKBDCHVMHWKY1ZE2TA789BX","createdAt":"2023-01-25T02:16:51.00386791Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"true","nodeID":"01GQK8T90HAJHQQP9H8WZR5B80"}}
 {"kind":"Attribute","obj":{"id":"01GQKBFJGCTTH2EYAAKG8GNC37","createdAt":"2023-01-25T02:18:02.636657502Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"true","nodeID":"01GQK8SNB107T7ZSY4KD72DBG2"}}
+{"kind":"Attribute","obj":{"id":"01GQKJRDNV8CWS7X25TFYA80S0","createdAt":"2023-01-25T04:25:12.635632639Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"closed","val":"true","nodeID":"01GQK8PYGFFXWXNBNBPM7PNNKK"}}
+{"kind":"Attribute","obj":{"id":"01GQKJRDNZT01V0TQDERKMAY0M","createdAt":"2023-01-25T04:25:12.639757423Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"false","nodeID":"01GQK8SNB107T7ZSY4KD72DBG2"}}
+{"kind":"Attribute","obj":{"id":"01GQKJRPFTDNX0411JB7PNJHP3","createdAt":"2023-01-25T04:25:21.658623663Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"false","nodeID":"01GQK8T1MA17N4QS2GN8N4712W"}}
+{"kind":"Attribute","obj":{"id":"01GQKJRQ290Y68Y1Q2ZB6GVZXN","createdAt":"2023-01-25T04:25:22.249497758Z","createdByID":"01GQK8HVZ5T32RRARDF7QSR5B3","key":"connected","val":"false","nodeID":"01GQK8T90HAJHQQP9H8WZR5B80"}}
