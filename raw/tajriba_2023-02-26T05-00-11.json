@@ -1,0 +1,7 @@
+{"version":"v1.0.0-rc.23","sha":"bb40cf9","build":"154","tag":"v1.0.0-rc.23","branch":"main","time":"2022-11-07T08:33:56Z"}
+{"version":0,"format":"JSON","compression":"NoCompression"}
+{"kind":"Service","obj":{"id":"01GT61FEVZ16T0RV6HY6VJD78R","name":"system","createdAt":"2023-02-26T05:00:11.007865809Z"}}
+{"kind":"Scope","obj":{"id":"01GT61FEW0GNH86JVKMSNP008B","name":"global","kind":"global","createdAt":"2023-02-26T05:00:11.008164782Z","createdByID":"01GT61FEVZ16T0RV6HY6VJD78R"}}
+{"kind":"User","obj":{"id":"01GT61FEW0GNH86JVKMTDQTCJR","name":"Admin","username":"admin","createdAt":"2023-02-26T05:00:11.008297593Z"}}
+{"kind":"Service","obj":{"id":"01GT61FGZB88Q4SVRYB4DWCA5B","name":"callbacks","createdAt":"2023-02-26T05:00:13.163547929Z"}}
+{"kind":"Session","obj":{"id":"01GT61FGZB88Q4SVRYB602CZ8H","token":"7N24PDNJKHJGEZSAZF7HRBUZ2WOTZVTSIDXVF3GXCD67OCUR65SLSVCNET5CSDJKRLHPTDNIH4G6KH5TORIBATBQBFK4L2ZMG3XDD5A","userAgent":"","actorID":"01GT61FGZB88Q4SVRYB4DWCA5B"}}
