@@ -1,7 +1,0 @@
-{"sha":"47c52f3","build":"249","branch":"bugfix-merge-build-release","time":"2023-02-08T09:59:15Z"}
-{"version":0,"format":"JSON","compression":"NoCompression"}
-{"kind":"Service","obj":{"id":"01GWQNERT20F5BC5SDBRGMYY1C","name":"system","createdAt":"2023-03-29T21:47:48.930641242Z"}}
-{"kind":"Scope","obj":{"id":"01GWQNERT3BSE26Q03KX78KYJY","name":"global","kind":"global","createdAt":"2023-03-29T21:47:48.931681631Z","createdByID":"01GWQNERT20F5BC5SDBRGMYY1C"}}
-{"kind":"User","obj":{"id":"01GWQNERT44FRMD4P7NMVETRWF","name":"Admin","username":"admin","createdAt":"2023-03-29T21:47:48.932562015Z"}}
-{"kind":"Service","obj":{"id":"01GWQNETMESM8H36VX8ZJV3BZ0","name":"callbacks","createdAt":"2023-03-29T21:47:50.798149622Z"}}
-{"kind":"Session","obj":{"id":"01GWQNETMESM8H36VX928A1F2M","token":"HBDDEQ6RUXQN3KT333LMNTHZ4V54V4RUCIPFM746BEFFK2QTVK4EHE77NPB6KXCRXF5LCNUW7URXVZZ6HTAAKHGUU4X565TRZKMEDZY","userAgent":"","actorID":"01GWQNETMESM8H36VX8ZJV3BZ0"}}
