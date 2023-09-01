@@ -1,2 +1,1 @@
-# deliberation-data-test
-Data repository for deliberation test server
+This branch is for testing default pushes to the main private repo when usedata=True
