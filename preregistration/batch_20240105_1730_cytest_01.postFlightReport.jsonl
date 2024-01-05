@@ -3,7 +3,8 @@
     "total": 2,
     "treatmentBreakdown": {
       "cypress_omnibus": 2
-    }
+    },
+    "percentComplete": 0.5
   },
   "participants": {
     "total": 3,
