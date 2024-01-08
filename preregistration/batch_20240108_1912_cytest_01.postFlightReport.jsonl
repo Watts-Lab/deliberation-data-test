@@ -1,0 +1,66 @@
+{
+  "errors": [
+    "[server] \u001b[90m14:12:41.658\u001b[0m \u001b[31m\u001b[1mERR\u001b[0m Error test message from batch 01HKN7VJNNQNPM296RW1P5V8GF"
+  ],
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 2,
+    "enterLobby": 2,
+    "beginGame": 2,
+    "finishGame": 2,
+    "complete": 1,
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 11.886,
+      "min": 11.291,
+      "mean": 11.5885,
+      "median": 11.886
+    },
+    "countdown": {
+      "max": 0.162,
+      "min": 0.13,
+      "mean": 0.14600000000000002,
+      "median": 0.162
+    },
+    "lobby": {
+      "max": 1.903,
+      "min": 1.817,
+      "mean": 1.8599999999999999,
+      "median": 1.903
+    },
+    "game": {
+      "max": 23.911,
+      "min": 23.911,
+      "mean": 23.911,
+      "median": 23.911
+    },
+    "exit": {
+      "max": 5.239,
+      "min": 5.239,
+      "mean": 5.239,
+      "median": 5.239
+    }
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  }
+}
