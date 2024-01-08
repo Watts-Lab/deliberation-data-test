@@ -1,0 +1,66 @@
+{
+  "errors": [
+    "[server] \u001b[90m20:55:41.237\u001b[0m \u001b[31m\u001b[1mERR\u001b[0m Error test message from batch 01HKKCGRHGYWJH0H8XZGJPAAYS"
+  ],
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 2,
+    "enterLobby": 2,
+    "beginGame": 2,
+    "finishGame": 2,
+    "complete": 1,
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 12.016,
+      "min": 11.38,
+      "mean": 11.698,
+      "median": 12.016
+    },
+    "countdown": {
+      "max": 0.155,
+      "min": 0.12,
+      "mean": 0.1375,
+      "median": 0.155
+    },
+    "lobby": {
+      "max": 2.074,
+      "min": 1.999,
+      "mean": 2.0365,
+      "median": 2.074
+    },
+    "game": {
+      "max": 24.027,
+      "min": 24.027,
+      "mean": 24.027,
+      "median": 24.027
+    },
+    "exit": {
+      "max": 4.834,
+      "min": 4.834,
+      "mean": 4.834,
+      "median": 4.834
+    }
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  }
+}
