@@ -1,0 +1,63 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 2,
+    "enterLobby": 2,
+    "beginGame": 2,
+    "finishGame": 2,
+    "complete": 1,
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 11.022,
+      "min": 10.405,
+      "mean": 10.7135,
+      "median": 11.022
+    },
+    "countdown": {
+      "max": 0.114,
+      "min": 0.067,
+      "mean": 0.0905,
+      "median": 0.114
+    },
+    "lobby": {
+      "max": 2.032,
+      "min": 1.94,
+      "mean": 1.986,
+      "median": 2.032
+    },
+    "game": {
+      "max": 22.094,
+      "min": 22.094,
+      "mean": 22.094,
+      "median": 22.094
+    },
+    "exit": {
+      "max": 4.248,
+      "min": 4.248,
+      "mean": 4.248,
+      "median": 4.248
+    }
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  }
+}
