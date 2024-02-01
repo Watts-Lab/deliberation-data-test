@@ -13,6 +13,18 @@
     "beginGame": 3,
     "finishGame": 3,
     "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "false": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
   },
