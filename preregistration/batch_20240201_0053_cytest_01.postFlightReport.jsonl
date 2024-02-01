@@ -25,6 +25,9 @@
     "browserLanguageBreakdown": {
       "en-US": 3
     },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 3
+    },
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
   },
