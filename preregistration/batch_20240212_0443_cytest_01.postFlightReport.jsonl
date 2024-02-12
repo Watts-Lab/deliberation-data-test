@@ -36,16 +36,16 @@
   },
   "timings": {
     "intro": {
-      "max": 11.041,
-      "min": 10.488,
-      "mean": 10.7645,
-      "median": 11.041
+      "max": 10.64,
+      "min": 10.095,
+      "mean": 10.3675,
+      "median": 10.64
     },
     "countdown": {
-      "max": 0.109,
-      "min": 0.054,
-      "mean": 0.0815,
-      "median": 0.109
+      "max": 0.105,
+      "min": 0.051,
+      "mean": 0.078,
+      "median": 0.105
     },
     "lobby": {
       "max": null,
