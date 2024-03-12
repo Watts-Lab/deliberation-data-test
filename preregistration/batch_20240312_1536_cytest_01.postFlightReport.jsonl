@@ -36,16 +36,16 @@
   },
   "timings": {
     "intro": {
-      "max": 10.463,
-      "min": 9.85,
-      "mean": 10.1565,
-      "median": 9.85
+      "max": 10.513,
+      "min": 9.885,
+      "mean": 10.199,
+      "median": 9.885
     },
     "countdown": {
-      "max": 0.102,
-      "min": 0.099,
-      "mean": 0.1005,
-      "median": 0.102
+      "max": 0.105,
+      "min": 0.102,
+      "mean": 0.1035,
+      "median": 0.105
     },
     "lobby": {
       "max": null,
@@ -73,15 +73,35 @@
     "median": 1
   },
   "QC": {
-    "participateAgain": {},
-    "adequateCompensation": {},
-    "adequateTime": {},
-    "clearInstructions": {},
-    "videoQuality": {},
-    "joiningProblems": {},
-    "technicalProblems": {},
-    "textExpansion": [],
-    "technicalDetail": [],
-    "joiningDetail": []
+    "participateAgain": {
+      "no": 1
+    },
+    "adequateCompensation": {
+      "underpaid": 1
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "2": 1
+    },
+    "videoQuality": {
+      "2": 1
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 1
+    },
+    "textExpansion": [
+      "Check_testplayer_A_4472208919013_text_entry"
+    ],
+    "technicalDetail": [
+      "Check_testplayer_A_4472208919013_technical_entry"
+    ],
+    "joiningDetail": [
+      null
+    ]
   }
 }
