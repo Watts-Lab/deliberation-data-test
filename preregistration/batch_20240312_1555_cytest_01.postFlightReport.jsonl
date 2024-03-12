@@ -14,7 +14,7 @@
     "finishGame": 3,
     "complete": 1,
     "ipTimezoneBreakdown": {
-      "America/New_York": 3
+      "America/Phoenix": 3
     },
     "ipCountryBreakdown": {
       "US": 3
@@ -36,16 +36,16 @@
   },
   "timings": {
     "intro": {
-      "max": 10.536,
-      "min": 9.887,
-      "mean": 10.211500000000001,
-      "median": 9.887
+      "max": 10.421,
+      "min": 9.815,
+      "mean": 10.117999999999999,
+      "median": 9.815
     },
     "countdown": {
-      "max": 0.11,
-      "min": 0.105,
-      "mean": 0.1075,
-      "median": 0.11
+      "max": 0.101,
+      "min": 0.099,
+      "mean": 0.1,
+      "median": 0.101
     },
     "lobby": {
       "max": null,
@@ -95,10 +95,10 @@
       "yes": 1
     },
     "textExpansion": [
-      "Check_testplayer_A_437433241658_text_entry"
+      "Check_testplayer_A_8540421694356_text_entry"
     ],
     "technicalDetail": [
-      "Check_testplayer_A_437433241658_technical_entry"
+      "Check_testplayer_A_8540421694356_technical_entry"
     ],
     "joiningDetail": [
       null
