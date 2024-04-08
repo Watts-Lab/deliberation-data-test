@@ -5,29 +5,29 @@
     "percentComplete": null
   },
   "participants": {
-    "total": 6,
+    "total": 9,
     "completeIntroSteps": 0,
     "enterLobby": 0,
-    "beginGame": 6,
-    "finishGame": 6,
+    "beginGame": 9,
+    "finishGame": 9,
     "complete": 0,
     "ipTimezoneBreakdown": {
-      "America/New_York": 6
+      "America/New_York": 9
     },
     "ipCountryBreakdown": {
-      "US": 6
+      "US": 9
     },
     "possibleVPN": {
-      "true": 6
+      "true": 9
     },
     "browserLanguageBreakdown": {
-      "en-US": 6
+      "en-US": 9
     },
     "browserTimezoneBreakdown": {
-      "UTC": 6
+      "UTC": 9
     },
     "knownVPN": {
-      "false": 6
+      "false": 9
     },
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
