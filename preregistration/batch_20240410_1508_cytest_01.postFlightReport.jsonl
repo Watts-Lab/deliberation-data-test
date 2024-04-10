@@ -1,0 +1,81 @@
+{
+  "preregistrations": {
+    "total": 0,
+    "treatmentBreakdown": {},
+    "percentComplete": null
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 0,
+    "enterLobby": 0,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 0,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "false": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "game": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "exit": {
+      "max": null,
+      "min": null,
+      "mean": null
+    }
+  },
+  "connections": {
+    "min": 3,
+    "max": 3,
+    "mean": 3,
+    "median": 3
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  }
+}
