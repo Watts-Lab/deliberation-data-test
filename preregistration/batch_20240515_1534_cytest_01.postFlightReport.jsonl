@@ -1,0 +1,107 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "false": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 11.578,
+      "min": 10.994,
+      "mean": 11.286,
+      "median": 11.578
+    },
+    "countdown": {
+      "max": 0.167,
+      "min": 0.119,
+      "mean": 0.14300000000000002,
+      "median": 0.167
+    },
+    "lobby": {
+      "max": 1.821,
+      "min": 1.76,
+      "mean": 1.7905,
+      "median": 1.821
+    },
+    "game": {
+      "max": 25.852,
+      "min": 25.852,
+      "mean": 25.852,
+      "median": 25.852
+    },
+    "exit": {
+      "max": 4.983,
+      "min": 4.983,
+      "mean": 4.983,
+      "median": 4.983
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "no": 1
+    },
+    "adequateCompensation": {
+      "underpaid": 1
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "2": 1
+    },
+    "videoQuality": {
+      "2": 1
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 1
+    },
+    "textExpansion": [
+      "Check_testplayer_A_4546027123683_text_entry"
+    ],
+    "technicalDetail": [
+      "Check_testplayer_A_4546027123683_technical_entry"
+    ],
+    "joiningDetail": [
+      null
+    ]
+  }
+}
