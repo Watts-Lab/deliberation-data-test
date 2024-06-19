@@ -64,6 +64,18 @@
       "min": 5.899,
       "mean": 5.899,
       "median": 5.899
+    },
+    "totalTime": {
+      "max": 46.311,
+      "min": 45.528000000000006,
+      "mean": 45.9195,
+      "median": 46.311
+    },
+    "totalActiveTime": {
+      "max": 46.163,
+      "min": 45.407000000000004,
+      "mean": 45.785,
+      "median": 46.163
     }
   },
   "connections": {
