@@ -1,0 +1,111 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/Chicago": 2,
+      "undefined": 1
+    },
+    "ipCountryBreakdown": {
+      "US": 2,
+      "undefined": 1
+    },
+    "possibleVPN": {
+      "false": 2,
+      "true": 1
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "America/Chicago": 3
+    },
+    "knownVPN": {
+      "false": 2,
+      "undefined": 1
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 12.653,
+      "min": 12.014,
+      "mean": 12.3335,
+      "median": 12.653
+    },
+    "countdown": {
+      "max": 0.158,
+      "min": 0.15,
+      "mean": 0.154,
+      "median": 0.158
+    },
+    "lobby": {
+      "max": 2.177,
+      "min": 2.065,
+      "mean": 2.121,
+      "median": 2.177
+    },
+    "game": {
+      "max": 26.885,
+      "min": 26.885,
+      "mean": 26.885,
+      "median": 26.885
+    },
+    "exit": {
+      "max": 5.17,
+      "min": 5.17,
+      "mean": 5.17,
+      "median": 5.17
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "no": 1
+    },
+    "adequateCompensation": {
+      "underpaid": 1
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "2": 1
+    },
+    "videoQuality": {
+      "2": 1
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 1
+    },
+    "textExpansion": [
+      "Check_testplayer_A_9345058954771_text_entry"
+    ],
+    "technicalDetail": [
+      "Check_testplayer_A_9345058954771_technical_entry"
+    ],
+    "joiningDetail": [
+      null
+    ]
+  }
+}
