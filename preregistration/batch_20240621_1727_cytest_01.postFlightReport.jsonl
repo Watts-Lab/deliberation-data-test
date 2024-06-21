@@ -1,67 +1,69 @@
 {
   "preregistrations": {
-    "total": 4,
+    "total": 2,
     "treatmentBreakdown": {
-      "cypress_omnibus": 4
+      "cypress_omnibus": 2
     },
-    "percentComplete": 0
+    "percentComplete": 50
   },
   "participants": {
-    "total": 6,
-    "completeIntroSteps": 6,
-    "enterLobby": 6,
-    "beginGame": 6,
-    "finishGame": 6,
-    "complete": 0,
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
     "ipTimezoneBreakdown": {
-      "America/Los_Angeles": 6
+      "America/New_York": 3
     },
     "ipCountryBreakdown": {
-      "US": 6
+      "US": 3
     },
     "possibleVPN": {
-      "true": 6
+      "true": 3
     },
     "browserLanguageBreakdown": {
-      "en-US": 6
+      "en-US": 3
     },
     "browserTimezoneBreakdown": {
-      "UTC": 6
+      "UTC": 3
     },
     "knownVPN": {
-      "false": 6
+      "false": 3
     },
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
   },
   "timings": {
     "intro": {
-      "max": 10.62,
-      "min": 9.815,
-      "mean": 10.211249999999998,
-      "median": 9.815
+      "max": 10.497,
+      "min": 9.851,
+      "mean": 10.174,
+      "median": 9.851
     },
     "countdown": {
-      "max": 1.014,
-      "min": 0.1,
-      "mean": 0.558,
-      "median": 1.012
+      "max": 0.098,
+      "min": 0.093,
+      "mean": 0.0955,
+      "median": 0.098
     },
     "lobby": {
-      "max": 1.757,
-      "min": 1.653,
-      "mean": 1.7047499999999998,
-      "median": 1.712
+      "max": 1.993,
+      "min": 1.935,
+      "mean": 1.964,
+      "median": 1.993
     },
     "game": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 23.927,
+      "min": 23.927,
+      "mean": 23.927,
+      "median": 23.927
     },
     "exit": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 4.316,
+      "min": 4.316,
+      "mean": 4.316,
+      "median": 4.316
     }
   },
   "connections": {
@@ -71,15 +73,35 @@
     "median": 1
   },
   "QC": {
-    "participateAgain": {},
-    "adequateCompensation": {},
-    "adequateTime": {},
-    "clearInstructions": {},
-    "videoQuality": {},
-    "joiningProblems": {},
-    "technicalProblems": {},
-    "textExpansion": [],
-    "technicalDetail": [],
-    "joiningDetail": []
+    "participateAgain": {
+      "no": 1
+    },
+    "adequateCompensation": {
+      "underpaid": 1
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "2": 1
+    },
+    "videoQuality": {
+      "2": 1
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 1
+    },
+    "textExpansion": [
+      "Check_testplayer_A_269979844721_text_entry"
+    ],
+    "technicalDetail": [
+      "Check_testplayer_A_269979844721_technical_entry"
+    ],
+    "joiningDetail": [
+      null
+    ]
   }
 }
