@@ -4,7 +4,7 @@
     "treatmentBreakdown": {
       "cypress_omnibus": 2
     },
-    "percentComplete": 50
+    "percentComplete": 0
   },
   "participants": {
     "total": 3,
@@ -12,7 +12,7 @@
     "enterLobby": 3,
     "beginGame": 3,
     "finishGame": 3,
-    "complete": 1,
+    "complete": 0,
     "ipTimezoneBreakdown": {
       "America/Los_Angeles": 3
     },
@@ -36,34 +36,32 @@
   },
   "timings": {
     "intro": {
-      "max": 10.746,
-      "min": 10.067,
-      "mean": 10.406500000000001,
-      "median": 10.746
+      "max": 10.789,
+      "min": 10.121,
+      "mean": 10.455,
+      "median": 10.789
     },
     "countdown": {
-      "max": 0.113,
-      "min": 0.102,
-      "mean": 0.1075,
-      "median": 0.113
+      "max": 0.102,
+      "min": 0.1,
+      "mean": 0.101,
+      "median": 0.102
     },
     "lobby": {
-      "max": 1.714,
-      "min": 1.643,
-      "mean": 1.6785,
-      "median": 1.714
+      "max": 1.725,
+      "min": 1.667,
+      "mean": 1.6960000000000002,
+      "median": 1.725
     },
     "game": {
-      "max": 24.283,
-      "min": 24.283,
-      "mean": 24.283,
-      "median": 24.283
+      "max": null,
+      "min": null,
+      "mean": null
     },
     "exit": {
-      "max": 4.942,
-      "min": 4.942,
-      "mean": 4.942,
-      "median": 4.942
+      "max": null,
+      "min": null,
+      "mean": null
     }
   },
   "connections": {
@@ -73,35 +71,15 @@
     "median": 1
   },
   "QC": {
-    "participateAgain": {
-      "no": 1
-    },
-    "adequateCompensation": {
-      "underpaid": 1
-    },
-    "adequateTime": {
-      "adequate": 1
-    },
-    "clearInstructions": {
-      "2": 1
-    },
-    "videoQuality": {
-      "2": 1
-    },
-    "joiningProblems": {
-      "no": 1
-    },
-    "technicalProblems": {
-      "yes": 1
-    },
-    "textExpansion": [
-      "Check_testplayer_A_6270040906466_text_entry"
-    ],
-    "technicalDetail": [
-      "Check_testplayer_A_6270040906466_technical_entry"
-    ],
-    "joiningDetail": [
-      null
-    ]
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
   }
 }
