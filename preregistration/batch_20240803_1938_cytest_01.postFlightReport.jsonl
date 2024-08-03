@@ -36,46 +36,46 @@
   },
   "timings": {
     "intro": {
-      "max": 10.725,
-      "min": 10.066,
-      "mean": 10.3955,
-      "median": 10.725
+      "max": 10.417,
+      "min": 9.813,
+      "mean": 10.115,
+      "median": 9.813
     },
     "countdown": {
-      "max": 0.108,
-      "min": 0.103,
-      "mean": 0.1055,
-      "median": 0.108
+      "max": 1.018,
+      "min": 1.007,
+      "mean": 1.0125,
+      "median": 1.018
     },
     "lobby": {
-      "max": 1.888,
-      "min": 1.83,
-      "mean": 1.859,
-      "median": 1.888
+      "max": 2.172,
+      "min": 2.114,
+      "mean": 2.143,
+      "median": 2.172
     },
     "game": {
-      "max": 24.33,
-      "min": 24.33,
-      "mean": 24.33,
-      "median": 24.33
+      "max": 23.923,
+      "min": 23.923,
+      "mean": 23.923,
+      "median": 23.923
     },
     "exit": {
-      "max": 4.975,
-      "min": 4.975,
-      "mean": 4.975,
-      "median": 4.975
+      "max": 4.986,
+      "min": 4.986,
+      "mean": 4.986,
+      "median": 4.986
     },
     "totalTime": {
-      "max": 42.026,
-      "min": 41.304,
-      "mean": 41.665,
-      "median": 42.026
+      "max": 42.516,
+      "min": 41.842999999999996,
+      "mean": 42.1795,
+      "median": 41.912
     },
     "totalActiveTime": {
-      "max": 41.918,
-      "min": 41.201,
-      "mean": 41.5595,
-      "median": 41.918
+      "max": 41.498,
+      "min": 40.83599999999999,
+      "mean": 41.166999999999994,
+      "median": 40.894
     }
   },
   "connections": {
@@ -107,11 +107,13 @@
       "yes": 1
     },
     "textExpansion": [
-      "Check_testplayer_A_8776565549322_text_entry"
+      "Check_testplayer_A_1334113511104_text_entry"
     ],
     "technicalDetail": [
-      "Check_testplayer_A_8776565549322_technical_entry"
+      "Check_testplayer_A_1334113511104_technical_entry"
     ],
-    "joiningDetail": []
+    "joiningDetail": [
+      null
+    ]
   }
 }
