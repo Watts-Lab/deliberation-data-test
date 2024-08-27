@@ -1,0 +1,117 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/Chicago": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "true": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "UTC": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "timings": {
+    "intro": {
+      "max": 10.797,
+      "min": 10.107,
+      "mean": 10.452,
+      "median": 10.797
+    },
+    "countdown": {
+      "max": 0.1,
+      "min": 0.098,
+      "mean": 0.099,
+      "median": 0.1
+    },
+    "lobby": {
+      "max": 1.819,
+      "min": 1.757,
+      "mean": 1.7879999999999998,
+      "median": 1.819
+    },
+    "game": {
+      "max": 24.602,
+      "min": 24.602,
+      "mean": 24.602,
+      "median": 24.602
+    },
+    "exit": {
+      "max": 4.515,
+      "min": 4.515,
+      "mean": 4.515,
+      "median": 4.515
+    },
+    "totalTime": {
+      "max": 41.833,
+      "min": 41.079,
+      "mean": 41.456,
+      "median": 41.833
+    },
+    "totalActiveTime": {
+      "max": 41.733000000000004,
+      "min": 40.981,
+      "mean": 41.357,
+      "median": 41.733000000000004
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "no": 1
+    },
+    "adequateCompensation": {
+      "underpaid": 1
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "2": 1
+    },
+    "videoQuality": {
+      "2": 1
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 1
+    },
+    "textExpansion": [
+      "Check_testplayer_A_1323606604978_text_entry"
+    ],
+    "technicalDetail": [
+      "Check_testplayer_A_1323606604978_technical_entry"
+    ],
+    "joiningDetail": []
+  }
+}
