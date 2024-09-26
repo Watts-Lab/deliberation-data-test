@@ -34,6 +34,9 @@
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
   },
+  "completedSampleIds": [
+    "43a81044-2ad6-469a-9ae1-cc83229f3c97"
+  ],
   "timings": {
     "intro": {
       "max": 19.524,
