@@ -1,0 +1,105 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/Los_Angeles": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "true": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "UTC": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "e1eb19fb-e9f7-4c7e-9bd0-cb5c5fff8e22"
+  ],
+  "timings": {
+    "intro": {
+      "max": 18.427,
+      "min": 17.753,
+      "mean": 18.09,
+      "median": 18.427
+    },
+    "countdown": {
+      "max": 0.108,
+      "min": 0.103,
+      "mean": 0.1055,
+      "median": 0.108
+    },
+    "lobby": {
+      "max": 1.897,
+      "min": 1.836,
+      "mean": 1.8665,
+      "median": 1.897
+    },
+    "game": {
+      "max": 26.001,
+      "min": 26.001,
+      "mean": 26.001,
+      "median": 26.001
+    },
+    "exit": {
+      "max": 5.15,
+      "min": 5.15,
+      "mean": 5.15,
+      "median": 5.15
+    },
+    "totalTime": {
+      "max": 51.583,
+      "min": 50.842999999999996,
+      "mean": 51.213,
+      "median": 51.583
+    },
+    "totalActiveTime": {
+      "max": 51.475,
+      "min": 50.74,
+      "mean": 51.107499999999995,
+      "median": 51.475
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    1
+  ]
+}
