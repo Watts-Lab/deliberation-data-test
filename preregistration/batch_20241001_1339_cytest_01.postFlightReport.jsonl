@@ -1,0 +1,105 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/Phoenix": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "true": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "UTC": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "11d4d8c4-7d77-4c39-a9fb-cb33e6864fb1"
+  ],
+  "timings": {
+    "intro": {
+      "max": 18.111,
+      "min": 17.435,
+      "mean": 17.773,
+      "median": 18.111
+    },
+    "countdown": {
+      "max": 0.109,
+      "min": 0.095,
+      "mean": 0.10200000000000001,
+      "median": 0.109
+    },
+    "lobby": {
+      "max": 2.007,
+      "min": 1.948,
+      "mean": 1.9775,
+      "median": 2.007
+    },
+    "game": {
+      "max": 25.291,
+      "min": 25.291,
+      "mean": 25.291,
+      "median": 25.291
+    },
+    "exit": {
+      "max": 5.122,
+      "min": 5.122,
+      "mean": 5.122,
+      "median": 5.122
+    },
+    "totalTime": {
+      "max": 50.64,
+      "min": 49.891,
+      "mean": 50.2655,
+      "median": 50.64
+    },
+    "totalActiveTime": {
+      "max": 50.531000000000006,
+      "min": 49.796,
+      "mean": 50.1635,
+      "median": 50.531000000000006
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    1
+  ]
+}
