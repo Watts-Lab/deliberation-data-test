@@ -14,7 +14,7 @@
     "finishGame": 3,
     "complete": 1,
     "ipTimezoneBreakdown": {
-      "America/Los_Angeles": 3
+      "America/New_York": 3
     },
     "ipCountryBreakdown": {
       "US": 3
@@ -35,50 +35,50 @@
     "checkingIn": 0
   },
   "completedSampleIds": [
-    "21aeb144-264a-431b-9d0c-a4b60431b0db"
+    "4be79f35-06ba-44fc-b21c-999de97fca93"
   ],
   "timings": {
     "intro": {
-      "max": 18.134,
-      "min": 17.507,
-      "mean": 17.820500000000003,
-      "median": 18.134
+      "max": 18.188,
+      "min": 17.487,
+      "mean": 17.8375,
+      "median": 18.188
     },
     "countdown": {
-      "max": 7.623,
-      "min": 7.6,
-      "mean": 7.6114999999999995,
-      "median": 7.623
+      "max": 7.615,
+      "min": 7.599,
+      "mean": 7.607,
+      "median": 7.615
     },
     "lobby": {
-      "max": 1.753,
-      "min": 1.702,
-      "mean": 1.7275,
-      "median": 1.753
+      "max": 2.006,
+      "min": 1.951,
+      "mean": 1.9785,
+      "median": 2.006
     },
     "game": {
-      "max": 25.886,
-      "min": 25.886,
-      "mean": 25.886,
-      "median": 25.886
+      "max": 25.471,
+      "min": 25.471,
+      "mean": 25.471,
+      "median": 25.471
     },
     "exit": {
-      "max": 5.55,
-      "min": 5.55,
-      "mean": 5.55,
-      "median": 5.55
+      "max": 5.522,
+      "min": 5.522,
+      "mean": 5.522,
+      "median": 5.522
     },
     "totalTime": {
-      "max": 58.946,
-      "min": 58.24499999999999,
-      "mean": 58.5955,
-      "median": 58.946
+      "max": 58.802,
+      "min": 58.029999999999994,
+      "mean": 58.416,
+      "median": 58.802
     },
     "totalActiveTime": {
-      "max": 51.32299999999999,
-      "min": 50.644999999999996,
-      "mean": 50.983999999999995,
-      "median": 51.32299999999999
+      "max": 51.187,
+      "min": 50.431,
+      "mean": 50.809,
+      "median": 51.187
     }
   },
   "connections": {
@@ -88,33 +88,15 @@
     "median": 1
   },
   "QC": {
-    "participateAgain": {
-      "no": 1
-    },
-    "adequateCompensation": {
-      "underpaid": 1
-    },
-    "adequateTime": {
-      "adequate": 1
-    },
-    "clearInstructions": {
-      "2": 1
-    },
-    "videoQuality": {
-      "2": 1
-    },
-    "joiningProblems": {
-      "no": 1
-    },
-    "technicalProblems": {
-      "yes": 1
-    },
-    "textExpansion": [
-      "Check_testplayer_A_3180371901812_text_entry"
-    ],
-    "technicalDetail": [
-      "Check_testplayer_A_3180371901812_technical_entry"
-    ],
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
     "joiningDetail": []
   },
   "finalPayoffs": [
