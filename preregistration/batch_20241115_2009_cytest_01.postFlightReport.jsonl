@@ -20,13 +20,13 @@
       "US": 3
     },
     "possibleVPN": {
-      "true": 3
+      "false": 3
     },
     "browserLanguageBreakdown": {
       "en-US": 3
     },
     "browserTimezoneBreakdown": {
-      "UTC": 3
+      "America/New_York": 3
     },
     "knownVPN": {
       "false": 3
@@ -37,22 +37,22 @@
   "completedSampleIds": [],
   "timings": {
     "intro": {
-      "max": 18.175,
-      "min": 17.514,
-      "mean": 17.8445,
-      "median": 18.175
+      "max": 20.213,
+      "min": 19.573,
+      "mean": 19.893,
+      "median": 20.213
     },
     "countdown": {
-      "max": 7.611,
-      "min": 7.599,
-      "mean": 7.605,
-      "median": 7.611
+      "max": 7.711,
+      "min": 7.651,
+      "mean": 7.681,
+      "median": 7.711
     },
     "lobby": {
-      "max": 2.091,
-      "min": 2.032,
-      "mean": 2.0615,
-      "median": 2.091
+      "max": 1.86,
+      "min": 1.781,
+      "mean": 1.8205,
+      "median": 1.86
     },
     "game": {
       "max": null,
@@ -78,10 +78,10 @@
     }
   },
   "connections": {
-    "min": 1,
-    "max": 1,
-    "mean": 1,
-    "median": 1
+    "min": 5,
+    "max": 5,
+    "mean": 5,
+    "median": 5
   },
   "QC": {
     "participateAgain": {},
