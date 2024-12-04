@@ -1,41 +1,58 @@
 {
   "preregistrations": {
-    "total": 0,
-    "treatmentBreakdown": {},
-    "percentComplete": null
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 0
   },
   "participants": {
-    "total": 0,
-    "completeIntroSteps": 0,
-    "enterLobby": 0,
-    "beginGame": 0,
-    "finishGame": 0,
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
     "complete": 0,
-    "ipTimezoneBreakdown": {},
-    "ipCountryBreakdown": {},
-    "possibleVPN": {},
-    "browserLanguageBreakdown": {},
-    "browserTimezoneBreakdown": {},
-    "knownVPN": {},
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "false": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
   },
   "completedSampleIds": [],
   "timings": {
     "intro": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 19.945,
+      "min": 19.318,
+      "mean": 19.631500000000003,
+      "median": 19.945
     },
     "countdown": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 7.704,
+      "min": 7.665,
+      "mean": 7.6845,
+      "median": 7.704
     },
     "lobby": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 1.828,
+      "min": 1.754,
+      "mean": 1.791,
+      "median": 1.828
     },
     "game": {
       "max": null,
@@ -61,9 +78,10 @@
     }
   },
   "connections": {
-    "min": null,
-    "max": null,
-    "mean": null
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
   },
   "QC": {
     "participateAgain": {},
@@ -76,5 +94,8 @@
     "textExpansion": [],
     "technicalDetail": [],
     "joiningDetail": []
-  }
+  },
+  "finalPayoffs": [
+    0.9
+  ]
 }
