@@ -1,0 +1,105 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "true": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "UTC": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "67991277-987a-4599-9fc8-46bf472a2f7d"
+  ],
+  "timings": {
+    "intro": {
+      "max": 20.392,
+      "min": 18.65,
+      "mean": 19.521,
+      "median": 20.392
+    },
+    "countdown": {
+      "max": 7.621,
+      "min": 7.615,
+      "mean": 7.618,
+      "median": 7.621
+    },
+    "lobby": {
+      "max": 1.878,
+      "min": 1.801,
+      "mean": 1.8395,
+      "median": 1.878
+    },
+    "game": {
+      "max": 27.782,
+      "min": 27.782,
+      "mean": 27.782,
+      "median": 27.782
+    },
+    "exit": {
+      "max": 5.548,
+      "min": 5.548,
+      "mean": 5.548,
+      "median": 5.548
+    },
+    "totalTime": {
+      "max": 63.221000000000004,
+      "min": 61.396,
+      "mean": 62.30850000000001,
+      "median": 63.221000000000004
+    },
+    "totalActiveTime": {
+      "max": 55.6,
+      "min": 53.781,
+      "mean": 54.6905,
+      "median": 55.6
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9
+  ]
+}
