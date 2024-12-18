@@ -35,50 +35,50 @@
     "checkingIn": 0
   },
   "completedSampleIds": [
-    "d0d3a4e0-b151-4b61-8f62-bb6ab3684732"
+    "5f5e51d9-4f0e-47b2-84c4-19e443d94386"
   ],
   "timings": {
     "intro": {
-      "max": 20.334,
-      "min": 18.602,
-      "mean": 19.468,
-      "median": 20.334
+      "max": 20.391,
+      "min": 18.464,
+      "mean": 19.4275,
+      "median": 20.391
     },
     "countdown": {
-      "max": 7.614,
-      "min": 7.599,
-      "mean": 7.6065000000000005,
-      "median": 7.614
+      "max": 7.645,
+      "min": 7.617,
+      "mean": 7.631,
+      "median": 7.645
     },
     "lobby": {
-      "max": 1.823,
-      "min": 1.765,
-      "mean": 1.794,
-      "median": 1.823
+      "max": 1.763,
+      "min": 1.662,
+      "mean": 1.7125,
+      "median": 1.763
     },
     "game": {
-      "max": 28.104,
-      "min": 28.104,
-      "mean": 28.104,
-      "median": 28.104
+      "max": 27.773,
+      "min": 27.773,
+      "mean": 27.773,
+      "median": 27.773
     },
     "exit": {
-      "max": 5.412,
-      "min": 5.412,
-      "mean": 5.412,
-      "median": 5.412
+      "max": 5.539,
+      "min": 5.539,
+      "mean": 5.539,
+      "median": 5.539
     },
     "totalTime": {
-      "max": 63.287,
-      "min": 61.482,
-      "mean": 62.384499999999996,
-      "median": 63.287
+      "max": 63.111000000000004,
+      "min": 61.055,
+      "mean": 62.083,
+      "median": 63.111000000000004
     },
     "totalActiveTime": {
-      "max": 55.672999999999995,
-      "min": 53.883,
-      "mean": 54.778,
-      "median": 55.672999999999995
+      "max": 55.465999999999994,
+      "min": 53.438,
+      "mean": 54.452,
+      "median": 55.465999999999994
     }
   },
   "connections": {
@@ -110,10 +110,10 @@
       "yes": 1
     },
     "textExpansion": [
-      "Check_testplayer_A_4373412408667_text_entry"
+      "Check_testplayer_A_6840405555560_text_entry"
     ],
     "technicalDetail": [
-      "Check_testplayer_A_4373412408667_technical_entry"
+      "Check_testplayer_A_6840405555560_technical_entry"
     ],
     "joiningDetail": []
   },
