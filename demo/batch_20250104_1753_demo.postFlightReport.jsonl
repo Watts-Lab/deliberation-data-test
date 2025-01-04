@@ -1,0 +1,105 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "wave_1_fundNeedleExchange_dem_0_rep_0": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/Phoenix": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "false": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "America/Phoenix": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 1,
+    "checkingIn": 2
+  },
+  "completedSampleIds": [
+    "aa4337be-0359-43b7-91a2-0c6ca2e0f266"
+  ],
+  "timings": {
+    "intro": {
+      "max": 346.737,
+      "min": 146.921,
+      "mean": 217.25,
+      "median": 158.092
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 180.151,
+      "min": 1.905,
+      "mean": 91.028,
+      "median": 180.151
+    },
+    "game": {
+      "max": 150.754,
+      "min": 150.754,
+      "mean": 150.754,
+      "median": 150.754
+    },
+    "exit": {
+      "max": 160.201,
+      "min": 160.201,
+      "mean": 160.201,
+      "median": 160.201
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 837.8430000000001,
+      "min": 459.78099999999995,
+      "mean": 619.2330000000001,
+      "median": 649.1980000000001
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 3,
+    "mean": 2,
+    "median": 2
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    1,
+    1
+  ]
+}
