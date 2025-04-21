@@ -1,8 +1,10 @@
 {
   "preregistrations": {
-    "total": 0,
-    "treatmentBreakdown": {},
-    "percentComplete": null
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
   },
   "participants": {
     "total": 3,
@@ -10,9 +12,9 @@
     "enterLobby": 3,
     "beginGame": 3,
     "finishGame": 3,
-    "complete": 0,
+    "complete": 1,
     "ipTimezoneBreakdown": {
-      "America/Los_Angeles": 3
+      "America/Chicago": 3
     },
     "ipCountryBreakdown": {
       "US": 3
@@ -32,44 +34,51 @@
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
   },
-  "completedSampleIds": [],
+  "completedSampleIds": [
+    "79a66b30-bc21-4351-bc98-8b490defc151"
+  ],
   "timings": {
     "intro": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 20.249,
+      "min": 18.586,
+      "mean": 19.417499999999997,
+      "median": 20.249
     },
     "countdown": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 7.62,
+      "min": 7.602,
+      "mean": 7.611000000000001,
+      "median": 7.62
     },
     "lobby": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 1.825,
+      "min": 1.77,
+      "mean": 1.7974999999999999,
+      "median": 1.825
     },
     "game": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 27.746,
+      "min": 27.746,
+      "mean": 27.746,
+      "median": 27.746
     },
     "exit": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 5.249,
+      "min": 5.249,
+      "mean": 5.249,
+      "median": 5.249
     },
     "totalTime": {
-      "max": null,
-      "min": null,
-      "mean": null,
-      "median": null
+      "max": 62.689,
+      "min": 60.952999999999996,
+      "mean": 61.821,
+      "median": 62.689
     },
     "totalActiveTime": {
-      "max": null,
-      "min": null,
-      "mean": null,
-      "median": null
+      "max": 55.068999999999996,
+      "min": 53.351,
+      "mean": 54.21,
+      "median": 55.068999999999996
     }
   },
   "connections": {
@@ -79,15 +88,36 @@
     "median": 1
   },
   "QC": {
-    "participateAgain": {},
-    "adequateCompensation": {},
-    "adequateTime": {},
-    "clearInstructions": {},
-    "videoQuality": {},
-    "joiningProblems": {},
-    "technicalProblems": {},
-    "textExpansion": [],
-    "technicalDetail": [],
+    "participateAgain": {
+      "no": 1
+    },
+    "adequateCompensation": {
+      "underpaid": 1
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "2": 1
+    },
+    "videoQuality": {
+      "2": 1
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 1
+    },
+    "textExpansion": [
+      "Check_testplayer_A_7698556089063_text_entry"
+    ],
+    "technicalDetail": [
+      "Check_testplayer_A_7698556089063_technical_entry"
+    ],
     "joiningDetail": []
-  }
+  },
+  "finalPayoffs": [
+    0.9
+  ]
 }
