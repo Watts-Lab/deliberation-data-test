@@ -1,0 +1,123 @@
+{
+  "preregistrations": {
+    "total": 4,
+    "treatmentBreakdown": {
+      "demo_israelAid": 2,
+      "demo_slaveReparations": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 5,
+    "completeIntroSteps": 5,
+    "enterLobby": 5,
+    "beginGame": 5,
+    "finishGame": 5,
+    "complete": 2,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 5
+    },
+    "ipCountryBreakdown": {
+      "US": 5
+    },
+    "possibleVPN": {
+      "false": 5
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 4,
+      "en-GB": 1
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 5
+    },
+    "knownVPN": {
+      "false": 5
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "b028829c-4929-43e4-b57d-48820832dcbb",
+    "84cd6874-3e72-4c5f-a5da-6dea93ec9a01"
+  ],
+  "timings": {
+    "intro": {
+      "max": 216.753,
+      "min": 55.876,
+      "mean": 128.266,
+      "median": 216.753
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 76,
+      "min": 1.832,
+      "mean": 22.246,
+      "median": 76
+    },
+    "game": {
+      "max": 143.674,
+      "min": 61.634,
+      "mean": 102.654,
+      "median": 61.634
+    },
+    "exit": {
+      "max": 42.506,
+      "min": 35.909,
+      "mean": 39.207499999999996,
+      "median": 42.506
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 478.933,
+      "min": 155.251,
+      "mean": 292.3735,
+      "median": 396.89300000000003
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 19,
+    "mean": 4.8,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "no": 0.5,
+      "undefined": 0.5
+    },
+    "adequateCompensation": {
+      "undefined": 1
+    },
+    "adequateTime": {
+      "undefined": 1
+    },
+    "clearInstructions": {
+      "undefined": 1
+    },
+    "videoQuality": {
+      "undefined": 1
+    },
+    "joiningProblems": {
+      "undefined": 1
+    },
+    "technicalProblems": {
+      "undefined": 1
+    },
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    1,
+    1
+  ]
+}
