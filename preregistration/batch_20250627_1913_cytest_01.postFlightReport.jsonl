@@ -35,50 +35,50 @@
     "checkingIn": 0
   },
   "completedSampleIds": [
-    "b43b00b6-5032-4806-b4d8-0cd4ee765595"
+    "33ec89a3-5c9f-4e13-823e-de9f9f642b6a"
   ],
   "timings": {
     "intro": {
-      "max": 23.516,
-      "min": 21.864,
-      "mean": 22.689999999999998,
-      "median": 23.516
+      "max": 23.265,
+      "min": 21.622,
+      "mean": 22.4435,
+      "median": 23.265
     },
     "countdown": {
-      "max": 7.617,
+      "max": 7.624,
       "min": 7.604,
-      "mean": 7.6105,
-      "median": 7.617
+      "mean": 7.614,
+      "median": 7.624
     },
     "lobby": {
-      "max": 1.77,
-      "min": 1.713,
-      "mean": 1.7415,
-      "median": 1.77
+      "max": 1.962,
+      "min": 1.904,
+      "mean": 1.9329999999999998,
+      "median": 1.962
     },
     "game": {
-      "max": 27.672,
-      "min": 27.672,
-      "mean": 27.672,
-      "median": 27.672
+      "max": 28.166,
+      "min": 28.166,
+      "mean": 28.166,
+      "median": 28.166
     },
     "exit": {
-      "max": 5.113,
-      "min": 5.113,
-      "mean": 5.113,
-      "median": 5.113
+      "max": 5.582,
+      "min": 5.582,
+      "mean": 5.582,
+      "median": 5.582
     },
     "totalTime": {
-      "max": 65.688,
-      "min": 63.966,
-      "mean": 64.827,
-      "median": 65.688
+      "max": 66.59899999999999,
+      "min": 64.878,
+      "mean": 65.7385,
+      "median": 66.59899999999999
     },
     "totalActiveTime": {
-      "max": 58.071,
-      "min": 56.362,
-      "mean": 57.216499999999996,
-      "median": 58.071
+      "max": 58.975,
+      "min": 57.274,
+      "mean": 58.124500000000005,
+      "median": 58.975
     }
   },
   "connections": {
@@ -110,10 +110,10 @@
       "yes": 1
     },
     "textExpansion": [
-      "Check_testplayer_A_794951868404_text_entry"
+      "Check_testplayer_A_4512117078449_text_entry"
     ],
     "technicalDetail": [
-      "Check_testplayer_A_794951868404_technical_entry"
+      "Check_testplayer_A_4512117078449_technical_entry"
     ],
     "joiningDetail": []
   },
