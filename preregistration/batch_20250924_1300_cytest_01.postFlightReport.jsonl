@@ -14,7 +14,7 @@
     "finishGame": 3,
     "complete": 1,
     "ipTimezoneBreakdown": {
-      "America/Chicago": 3
+      "America/Denver": 3
     },
     "ipCountryBreakdown": {
       "US": 3
@@ -35,50 +35,50 @@
     "checkingIn": 0
   },
   "completedSampleIds": [
-    "ef717b64-55bd-4ded-9a44-b53d90d5b07b"
+    "132fa61d-788d-4915-af8a-7c85cdfa9032"
   ],
   "timings": {
     "intro": {
-      "max": 22.556,
-      "min": 20.801,
-      "mean": 21.6785,
-      "median": 22.556
+      "max": 22.619,
+      "min": 20.998,
+      "mean": 21.808500000000002,
+      "median": 22.619
     },
     "countdown": {
-      "max": 7.62,
-      "min": 7.608,
-      "mean": 7.614,
-      "median": 7.62
+      "max": 7.658,
+      "min": 7.61,
+      "mean": 7.634,
+      "median": 7.658
     },
     "lobby": {
-      "max": 1.811,
-      "min": 1.752,
-      "mean": 1.7814999999999999,
-      "median": 1.811
+      "max": 1.857,
+      "min": 1.799,
+      "mean": 1.8279999999999998,
+      "median": 1.857
     },
     "game": {
-      "max": 29.386,
-      "min": 29.386,
-      "mean": 29.386,
-      "median": 29.386
+      "max": 29.07,
+      "min": 29.07,
+      "mean": 29.07,
+      "median": 29.07
     },
     "exit": {
-      "max": 11.926,
-      "min": 11.926,
-      "mean": 11.926,
-      "median": 11.926
+      "max": 11.869,
+      "min": 11.869,
+      "mean": 11.869,
+      "median": 11.869
     },
     "totalTime": {
-      "max": 73.299,
-      "min": 71.473,
-      "mean": 72.386,
-      "median": 73.299
+      "max": 73.07300000000001,
+      "min": 71.346,
+      "mean": 72.2095,
+      "median": 73.07300000000001
     },
     "totalActiveTime": {
-      "max": 65.679,
-      "min": 63.864999999999995,
-      "mean": 64.772,
-      "median": 65.679
+      "max": 65.41499999999999,
+      "min": 63.736000000000004,
+      "mean": 64.5755,
+      "median": 65.41499999999999
     }
   },
   "connections": {
@@ -110,10 +110,10 @@
       "yes": 1
     },
     "textExpansion": [
-      "Check_testplayer_A_3278032143195_text_entry"
+      "Check_testplayer_A_2226991935841_text_entry"
     ],
     "technicalDetail": [
-      "Check_testplayer_A_3278032143195_technical_entry"
+      "Check_testplayer_A_2226991935841_technical_entry"
     ],
     "joiningDetail": []
   },
