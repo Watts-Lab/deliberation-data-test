@@ -35,50 +35,50 @@
     "checkingIn": 0
   },
   "completedSampleIds": [
-    "1b7b342b-c481-4e90-a921-61c0cf8db6d0"
+    "b77f3135-481b-4070-882d-4b59d90f5307"
   ],
   "timings": {
     "intro": {
-      "max": 22.869,
-      "min": 21.207,
-      "mean": 22.038,
-      "median": 22.869
+      "max": 22.898,
+      "min": 21.244,
+      "mean": 22.070999999999998,
+      "median": 22.898
     },
     "countdown": {
-      "max": 7.629,
-      "min": 7.604,
-      "mean": 7.6165,
-      "median": 7.629
+      "max": 7.631,
+      "min": 7.605,
+      "mean": 7.618,
+      "median": 7.631
     },
     "lobby": {
-      "max": 1.865,
-      "min": 1.805,
-      "mean": 1.835,
-      "median": 1.865
+      "max": 1.92,
+      "min": 1.861,
+      "mean": 1.8904999999999998,
+      "median": 1.92
     },
     "game": {
-      "max": 29.426,
-      "min": 29.426,
-      "mean": 29.426,
-      "median": 29.426
+      "max": 29.492,
+      "min": 29.492,
+      "mean": 29.492,
+      "median": 29.492
     },
     "exit": {
-      "max": 12.304,
-      "min": 12.304,
-      "mean": 12.304,
-      "median": 12.304
+      "max": 12.241,
+      "min": 12.241,
+      "mean": 12.241,
+      "median": 12.241
     },
     "totalTime": {
-      "max": 74.093,
-      "min": 72.346,
-      "mean": 73.2195,
-      "median": 74.093
+      "max": 74.182,
+      "min": 72.443,
+      "mean": 73.3125,
+      "median": 74.182
     },
     "totalActiveTime": {
-      "max": 66.464,
-      "min": 64.742,
-      "mean": 65.603,
-      "median": 66.464
+      "max": 66.551,
+      "min": 64.838,
+      "mean": 65.6945,
+      "median": 66.551
     }
   },
   "connections": {
@@ -110,10 +110,10 @@
       "yes": 1
     },
     "textExpansion": [
-      "Check_testplayer_A_5429410145599_text_entry"
+      "Check_testplayer_A_7287219696603_text_entry"
     ],
     "technicalDetail": [
-      "Check_testplayer_A_5429410145599_technical_entry"
+      "Check_testplayer_A_7287219696603_technical_entry"
     ],
     "joiningDetail": []
   },
