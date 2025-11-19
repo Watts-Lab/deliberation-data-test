@@ -1,0 +1,105 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "false": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "813d8ee7-034a-47da-9f48-dcc35017b5b1"
+  ],
+  "timings": {
+    "intro": {
+      "max": 25.256,
+      "min": 23.496,
+      "mean": 24.375999999999998,
+      "median": 25.256
+    },
+    "countdown": {
+      "max": 7.692,
+      "min": 7.674,
+      "mean": 7.683,
+      "median": 7.692
+    },
+    "lobby": {
+      "max": 2.377,
+      "min": 2.289,
+      "mean": 2.333,
+      "median": 2.377
+    },
+    "game": {
+      "max": 33.405,
+      "min": 33.405,
+      "mean": 33.405,
+      "median": 33.405
+    },
+    "exit": {
+      "max": 17.026,
+      "min": 17.026,
+      "mean": 17.026,
+      "median": 17.026
+    },
+    "totalTime": {
+      "max": 85.756,
+      "min": 83.89,
+      "mean": 84.823,
+      "median": 85.756
+    },
+    "totalActiveTime": {
+      "max": 78.064,
+      "min": 76.216,
+      "mean": 77.14,
+      "median": 78.064
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9
+  ]
+}
