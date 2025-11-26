@@ -12,10 +12,10 @@
     "finishGame": 3,
     "complete": 0,
     "ipTimezoneBreakdown": {
-      "undefined": 3
+      "America/Chicago": 3
     },
     "ipCountryBreakdown": {
-      "undefined": 3
+      "US": 3
     },
     "possibleVPN": {
       "true": 3
@@ -27,7 +27,7 @@
       "UTC": 3
     },
     "knownVPN": {
-      "undefined": 3
+      "false": 3
     },
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
