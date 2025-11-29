@@ -1,0 +1,105 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/Los_Angeles": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "true": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "UTC": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "2830ba14-d69b-4aeb-8fb0-781e81af06db"
+  ],
+  "timings": {
+    "intro": {
+      "max": 24.872,
+      "min": 23.301,
+      "mean": 24.0865,
+      "median": 24.872
+    },
+    "countdown": {
+      "max": 8.256,
+      "min": 7.697,
+      "mean": 7.9765,
+      "median": 8.256
+    },
+    "lobby": {
+      "max": 1.695,
+      "min": 0.969,
+      "mean": 1.332,
+      "median": 1.695
+    },
+    "game": {
+      "max": 29.421,
+      "min": 29.421,
+      "mean": 29.421,
+      "median": 29.421
+    },
+    "exit": {
+      "max": 12.949,
+      "min": 12.949,
+      "mean": 12.949,
+      "median": 12.949
+    },
+    "totalTime": {
+      "max": 77.193,
+      "min": 74.337,
+      "mean": 75.765,
+      "median": 77.193
+    },
+    "totalActiveTime": {
+      "max": 68.937,
+      "min": 66.64,
+      "mean": 67.7885,
+      "median": 68.937
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9
+  ]
+}
