@@ -1,0 +1,105 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "true": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "UTC": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "5903c0c4-c553-4ce8-b066-8c5e3047b25a"
+  ],
+  "timings": {
+    "intro": {
+      "max": 25.117,
+      "min": 23.406,
+      "mean": 24.261499999999998,
+      "median": 25.117
+    },
+    "countdown": {
+      "max": 7.622,
+      "min": 7.61,
+      "mean": 7.616,
+      "median": 7.622
+    },
+    "lobby": {
+      "max": 1.828,
+      "min": 1.767,
+      "mean": 1.7974999999999999,
+      "median": 1.828
+    },
+    "game": {
+      "max": 29.806,
+      "min": 29.806,
+      "mean": 29.806,
+      "median": 29.806
+    },
+    "exit": {
+      "max": 11.827,
+      "min": 11.827,
+      "mean": 11.827,
+      "median": 11.827
+    },
+    "totalTime": {
+      "max": 76.2,
+      "min": 74.416,
+      "mean": 75.30799999999999,
+      "median": 76.2
+    },
+    "totalActiveTime": {
+      "max": 68.578,
+      "min": 66.806,
+      "mean": 67.692,
+      "median": 68.578
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9
+  ]
+}
