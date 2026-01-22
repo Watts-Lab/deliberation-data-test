@@ -1,46 +1,64 @@
 {
   "preregistrations": {
-    "total": 0,
-    "treatmentBreakdown": {},
-    "percentComplete": null
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 0
   },
   "participants": {
-    "total": 0,
-    "completeIntroSteps": 0,
-    "enterLobby": 0,
-    "beginGame": 0,
-    "finishGame": 0,
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
     "complete": 0,
-    "ipTimezoneBreakdown": {},
-    "ipCountryBreakdown": {},
-    "possibleVPN": {},
-    "browserLanguageBreakdown": {},
-    "browserTimezoneBreakdown": {},
-    "knownVPN": {},
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "false": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
   },
   "completedSampleIds": [],
   "timings": {
     "intro": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 26.862,
+      "min": 25.089,
+      "mean": 25.975499999999997,
+      "median": 26.862
     },
     "countdown": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 7.685,
+      "min": 7.664,
+      "mean": 7.6745,
+      "median": 7.685
     },
     "lobby": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 2.177,
+      "min": 2.095,
+      "mean": 2.136,
+      "median": 2.177
     },
     "game": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 33.025,
+      "min": 33.025,
+      "mean": 33.025,
+      "median": 33.025
     },
     "exit": {
       "max": null,
@@ -61,9 +79,10 @@
     }
   },
   "connections": {
-    "min": null,
-    "max": null,
-    "mean": null
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
   },
   "QC": {
     "participateAgain": {},
@@ -76,5 +95,8 @@
     "textExpansion": [],
     "technicalDetail": [],
     "joiningDetail": []
-  }
+  },
+  "finalPayoffs": [
+    0.9
+  ]
 }
