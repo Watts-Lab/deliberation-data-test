@@ -1,0 +1,123 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
+  },
+  "participants": {
+    "total": 3,
+    "completeIntroSteps": 3,
+    "enterLobby": 3,
+    "beginGame": 3,
+    "finishGame": 3,
+    "complete": 1,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3
+    },
+    "ipCountryBreakdown": {
+      "US": 3
+    },
+    "possibleVPN": {
+      "true": 3
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3
+    },
+    "browserTimezoneBreakdown": {
+      "UTC": 3
+    },
+    "knownVPN": {
+      "false": 3
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [
+    "43ff9a69-ad24-44c4-a80d-eb58c151a985"
+  ],
+  "timings": {
+    "intro": {
+      "max": 25.329,
+      "min": 23.672,
+      "mean": 24.500500000000002,
+      "median": 25.329
+    },
+    "countdown": {
+      "max": 7.64,
+      "min": 7.585,
+      "mean": 7.6125,
+      "median": 7.64
+    },
+    "lobby": {
+      "max": 1.851,
+      "min": 1.791,
+      "mean": 1.821,
+      "median": 1.851
+    },
+    "game": {
+      "max": 29.594,
+      "min": 29.594,
+      "mean": 29.594,
+      "median": 29.594
+    },
+    "exit": {
+      "max": 14.112,
+      "min": 14.112,
+      "mean": 14.112,
+      "median": 14.112
+    },
+    "totalTime": {
+      "max": 78.526,
+      "min": 76.754,
+      "mean": 77.64,
+      "median": 78.526
+    },
+    "totalActiveTime": {
+      "max": 70.886,
+      "min": 69.169,
+      "mean": 70.0275,
+      "median": 70.886
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "no": 1
+    },
+    "adequateCompensation": {
+      "underpaid": 1
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "2": 1
+    },
+    "videoQuality": {
+      "2": 1
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 1
+    },
+    "textExpansion": [
+      "Check_testplayer_A_3017341332804_text_entry"
+    ],
+    "technicalDetail": [
+      "Check_testplayer_A_3017341332804_technical_entry_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_end"
+    ],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9
+  ]
+}
