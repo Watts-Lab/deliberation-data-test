@@ -1,8 +1,10 @@
 {
   "preregistrations": {
-    "total": 0,
-    "treatmentBreakdown": {},
-    "percentComplete": null
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 50
   },
   "participants": {
     "total": 3,
@@ -10,7 +12,7 @@
     "enterLobby": 3,
     "beginGame": 3,
     "finishGame": 3,
-    "complete": 0,
+    "complete": 1,
     "ipTimezoneBreakdown": {
       "America/New_York": 3
     },
@@ -32,44 +34,51 @@
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
   },
-  "completedSampleIds": [],
+  "completedSampleIds": [
+    "80935915-2a0b-4c8e-9ced-2c93a6715a5e"
+  ],
   "timings": {
     "intro": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 24.97,
+      "min": 23.304,
+      "mean": 24.137,
+      "median": 24.97
     },
     "countdown": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 7.632,
+      "min": 7.582,
+      "mean": 7.606999999999999,
+      "median": 7.632
     },
     "lobby": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 1.793,
+      "min": 1.735,
+      "mean": 1.764,
+      "median": 1.793
     },
     "game": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 29.554,
+      "min": 29.554,
+      "mean": 29.554,
+      "median": 29.554
     },
     "exit": {
-      "max": null,
-      "min": null,
-      "mean": null
+      "max": 13.851,
+      "min": 13.851,
+      "mean": 13.851,
+      "median": 13.851
     },
     "totalTime": {
-      "max": null,
-      "min": null,
-      "mean": null,
-      "median": null
+      "max": 77.8,
+      "min": 76.026,
+      "mean": 76.913,
+      "median": 77.8
     },
     "totalActiveTime": {
-      "max": null,
-      "min": null,
-      "mean": null,
-      "median": null
+      "max": 70.16799999999999,
+      "min": 68.444,
+      "mean": 69.306,
+      "median": 70.16799999999999
     }
   },
   "connections": {
@@ -79,15 +88,36 @@
     "median": 1
   },
   "QC": {
-    "participateAgain": {},
-    "adequateCompensation": {},
-    "adequateTime": {},
-    "clearInstructions": {},
-    "videoQuality": {},
-    "joiningProblems": {},
-    "technicalProblems": {},
-    "textExpansion": [],
-    "technicalDetail": [],
+    "participateAgain": {
+      "no": 1
+    },
+    "adequateCompensation": {
+      "underpaid": 1
+    },
+    "adequateTime": {
+      "adequate": 1
+    },
+    "clearInstructions": {
+      "2": 1
+    },
+    "videoQuality": {
+      "2": 1
+    },
+    "joiningProblems": {
+      "no": 1
+    },
+    "technicalProblems": {
+      "yes": 1
+    },
+    "textExpansion": [
+      "Check_testplayer_A_8937063541071_text_entry"
+    ],
+    "technicalDetail": [
+      "Check_testplayer_A_8937063541071_technical_entry_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_end"
+    ],
     "joiningDetail": []
-  }
+  },
+  "finalPayoffs": [
+    0.9
+  ]
 }
