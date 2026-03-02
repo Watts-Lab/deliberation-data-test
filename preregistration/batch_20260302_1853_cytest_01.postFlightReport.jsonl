@@ -35,50 +35,50 @@
     "checkingIn": 0
   },
   "completedSampleIds": [
-    "86108d6a-76d8-437b-bb72-4b1442e97efe"
+    "f472544b-8a89-4850-9edf-60fde3d9107b"
   ],
   "timings": {
     "intro": {
-      "max": 25.375,
-      "min": 23.651,
-      "mean": 24.512999999999998,
-      "median": 25.375
+      "max": 25.354,
+      "min": 23.707,
+      "mean": 24.5305,
+      "median": 25.354
     },
     "countdown": {
-      "max": 7.623,
-      "min": 7.607,
-      "mean": 7.615,
-      "median": 7.623
+      "max": 7.672,
+      "min": 7.611,
+      "mean": 7.6415,
+      "median": 7.672
     },
     "lobby": {
-      "max": 2.563,
-      "min": 2.504,
-      "mean": 2.5335,
-      "median": 2.563
+      "max": 1.823,
+      "min": 1.76,
+      "mean": 1.7915,
+      "median": 1.823
     },
     "game": {
-      "max": 30.264,
-      "min": 30.264,
-      "mean": 30.264,
-      "median": 30.264
+      "max": 29.658,
+      "min": 29.658,
+      "mean": 29.658,
+      "median": 29.658
     },
     "exit": {
-      "max": 14.285,
-      "min": 14.285,
-      "mean": 14.285,
-      "median": 14.285
+      "max": 14.464,
+      "min": 14.464,
+      "mean": 14.464,
+      "median": 14.464
     },
     "totalTime": {
-      "max": 80.11,
-      "min": 78.31099999999999,
-      "mean": 79.2105,
-      "median": 80.11
+      "max": 78.971,
+      "min": 77.2,
+      "mean": 78.0855,
+      "median": 78.971
     },
     "totalActiveTime": {
-      "max": 72.487,
-      "min": 70.704,
-      "mean": 71.5955,
-      "median": 72.487
+      "max": 71.299,
+      "min": 69.589,
+      "mean": 70.444,
+      "median": 71.299
     }
   },
   "connections": {
@@ -110,10 +110,10 @@
       "yes": 1
     },
     "textExpansion": [
-      "Check_testplayer_A_37874269036_text_entry"
+      "Check_testplayer_A_2081215135538_text_entry"
     ],
     "technicalDetail": [
-      "Check_testplayer_A_37874269036_technical_entry_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_end"
+      "Check_testplayer_A_2081215135538_technical_entry_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_end"
     ],
     "joiningDetail": []
   },
