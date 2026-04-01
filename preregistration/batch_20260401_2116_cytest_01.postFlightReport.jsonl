@@ -1,0 +1,106 @@
+{
+  "preregistrations": {
+    "total": 2,
+    "treatmentBreakdown": {
+      "cypress_omnibus": 2
+    },
+    "percentComplete": 0
+  },
+  "participants": {
+    "total": 13,
+    "completeIntroSteps": 13,
+    "enterLobby": 13,
+    "beginGame": 13,
+    "finishGame": 13,
+    "complete": 0,
+    "ipTimezoneBreakdown": {
+      "America/New_York": 3,
+      "undefined": 10
+    },
+    "ipCountryBreakdown": {
+      "US": 3,
+      "undefined": 10
+    },
+    "possibleVPN": {
+      "false": 13
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 3,
+      "undefined": 10
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 3,
+      "undefined": 10
+    },
+    "knownVPN": {
+      "false": 3,
+      "undefined": 10
+    },
+    "reportingDiscussionProblems": 0,
+    "checkingIn": 0
+  },
+  "completedSampleIds": [],
+  "timings": {
+    "intro": {
+      "max": 26.748,
+      "min": 25,
+      "mean": 25.874000000000002,
+      "median": 26.748
+    },
+    "countdown": {
+      "max": 7.701,
+      "min": 7.678,
+      "mean": 7.6895,
+      "median": 7.701
+    },
+    "lobby": {
+      "max": 2.002,
+      "min": 1.925,
+      "mean": 1.9634999999999998,
+      "median": 2.002
+    },
+    "game": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "exit": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 9,
+    "mean": 3.6923076923076925,
+    "median": 2
+  },
+  "QC": {
+    "participateAgain": {},
+    "adequateCompensation": {},
+    "adequateTime": {},
+    "clearInstructions": {},
+    "videoQuality": {},
+    "joiningProblems": {},
+    "technicalProblems": {},
+    "textExpansion": [],
+    "technicalDetail": [],
+    "joiningDetail": []
+  },
+  "finalPayoffs": [
+    0.9
+  ]
+}
