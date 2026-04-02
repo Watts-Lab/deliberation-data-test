@@ -5,29 +5,34 @@
     "percentComplete": null
   },
   "participants": {
-    "total": 1,
-    "completeIntroSteps": 1,
-    "enterLobby": 1,
-    "beginGame": 1,
-    "finishGame": 1,
+    "total": 4,
+    "completeIntroSteps": 4,
+    "enterLobby": 4,
+    "beginGame": 4,
+    "finishGame": 4,
     "complete": 0,
     "ipTimezoneBreakdown": {
-      "undefined": 1
+      "undefined": 1,
+      "America/New_York": 3
     },
     "ipCountryBreakdown": {
-      "undefined": 1
+      "undefined": 1,
+      "US": 3
     },
     "possibleVPN": {
-      "false": 1
+      "false": 4
     },
     "browserLanguageBreakdown": {
-      "undefined": 1
+      "undefined": 1,
+      "en-US": 3
     },
     "browserTimezoneBreakdown": {
-      "undefined": 1
+      "undefined": 1,
+      "America/New_York": 3
     },
     "knownVPN": {
-      "undefined": 1
+      "undefined": 1,
+      "false": 3
     },
     "reportingDiscussionProblems": 0,
     "checkingIn": 0
@@ -74,9 +79,9 @@
   },
   "connections": {
     "min": 1,
-    "max": 1,
-    "mean": 1,
-    "median": 1
+    "max": 2,
+    "mean": 1.75,
+    "median": 2
   },
   "QC": {
     "participateAgain": {},
